@@ -1,0 +1,30 @@
+form {
+    margin-top: 30%;
+    background-color: black;
+    padding: 40px;
+    border-radius: 20px;
+}
+.responsive-img {
+    margin-top: 35%;
+}
+label{
+    color: rgb(9, 26, 41);
+}
+.btn{
+    margin-top: 5%;
+    background: gray;
+}
+body{
+    background:white;
+}
+ 
+span{
+    font-size: 1.5em;
+}
+ 
+input{
+    color: black;
+}
+.cor{
+    color: white;
+}
